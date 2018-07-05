@@ -18,6 +18,7 @@ public class StringCalculatorTest {
 			{
 				StringCalculator.add1("x,2");
 				System.out.println("hi ");
+				System.out.println("sdd");
 			}
 		}
 
